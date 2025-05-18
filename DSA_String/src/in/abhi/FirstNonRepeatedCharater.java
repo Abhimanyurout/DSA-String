@@ -22,7 +22,6 @@ public class FirstNonRepeatedCharater {
 				break;
 			}
 		}
-		
 		//using Collection
 		Map<Character, Integer> map=new HashMap<>();
 		for(int i=0;i<input.length();i++) {
